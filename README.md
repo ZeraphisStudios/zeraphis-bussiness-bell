@@ -1,4 +1,4 @@
-# businessbell (QB/ESX/QBX/Qbox) - Assistance Bell
+# businessbell (QB/ESX/QBX) - Assistance Bell
 
 ## What it does
 - Place one or more **bells** (coords + radius) in `config.lua`.
